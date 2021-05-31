@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi [Gregorio Carrillo][website] here 👋
 
-**gregoriocarrillo/gregoriocarrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/roswel47?color=1da1f2&label=roswel47&logo=twitter&style=for-the-badge">](https://twitter.com/roswel47)
 
 Here are some ideas to get you started:
 
@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- LINKS -->
+
+[website]: https://gcmestudio.com/
