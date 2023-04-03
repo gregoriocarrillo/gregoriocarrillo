@@ -4,11 +4,11 @@
 
 ### Beginner Web Developer and Photographer
 
-Here are some ideas to get you started:
+Actualmente trabajo como diseñador y fotografo pero estoy aprendiendo programación:
 
-- 🔭 I’m currently working on HTML, CSS and JS courses
-- 🌱 I’m currently learning about Web Develop
-- 💬 Ask me about web dev
+- HTML
+- CSS
+- Javascript
 
 ---
 
