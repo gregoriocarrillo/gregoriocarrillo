@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 <!-- LINKS -->
 
-[website]: https://gcmestudio.com/
+
