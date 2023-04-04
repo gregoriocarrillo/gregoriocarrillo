@@ -12,6 +12,21 @@ Actualmente trabajo como diseñador y fotografo pero estoy aprendiendo programac
 
 ---
 
-<!-- LINKS -->
+## Comandos mas usados en la terminal:
+
+| Comando | Descripcion |
+| --- | --- |
+| ls | lista de archivos en carpeta |
+| pwd | ruta absoluta de directorio actual |
+| mkdir | crear carpeta |
+| touch | crea archivo |
+| rm | elimina un archivo |
+
+---
+
+## Comandos alias utiles
+
+1. alias rm="trash"
+2. alias cl="clear"
 
 
