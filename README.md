@@ -1,32 +1,13 @@
-### Hi [Gregorio Carrillo] here 👋
+# Hola, soy Gregorio Carrillo 👋
 
-[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/roswel47?color=1da1f2&label=roswel47&logo=twitter&style=for-the-badge">](https://twitter.com/roswel47)
+### Soy Diseñador y Fotografo, actualmente estudiando y aprendiendo Desarrollo Web en diferentes plataformas
 
-### Beginner Web Developer and Photographer
-
-Actualmente trabajo como diseñador y fotografo pero estoy aprendiendo programación:
+Actualmente aprendiendo:
 
 - HTML
 - CSS
 - Javascript
 
----
+Me encuentran en Twitter por aqui:
 
-## Comandos mas usados en la terminal:
-
-| Comando | Descripcion |
-| --- | --- |
-| ls | lista de archivos en carpeta |
-| pwd | ruta absoluta de directorio actual |
-| mkdir | crear carpeta |
-| touch | crea archivo |
-| rm | elimina un archivo |
-
----
-
-## Comandos alias utiles
-
-1. alias rm="trash"
-2. alias cl="clear"
-
-
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/roswel47?color=1da1f2&label=roswel47&logo=twitter&style=for-the-badge">](https://twitter.com/roswel47)
