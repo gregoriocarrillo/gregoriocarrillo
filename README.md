@@ -6,6 +6,7 @@ Actualmente aprendiendo:
 
 - HTML
 - CSS
+- Python
 - Javascript
 
 Me encuentran en Twitter por aqui:
