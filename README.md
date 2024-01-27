@@ -1,13 +1,6 @@
 # Hola, soy Gregorio Carrillo 👋
 
-### Soy Diseñador y Fotografo, actualmente estudiando y aprendiendo Desarrollo Web en diferentes plataformas
-
-Actualmente aprendiendo:
-
-- HTML
-- CSS
-- Python
-- Javascript
+### Soy Fotografo, Corredor de Seguros, entusiasta de la Programación y Desarrollo Web, actualmente formandome en Ciberseguridad
 
 Me encuentran en Twitter por aqui:
 
